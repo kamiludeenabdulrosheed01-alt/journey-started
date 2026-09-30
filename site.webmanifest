@@ -1,0 +1,17 @@
+{
+  "name": "Kamaldeen Abdul Rasheed Dolapo | Portfolio",
+  "short_name": "KARD Portfolio",
+  "description": "Cybersecurity student building toward cloud security.",
+  "start_url": "./new_update.html",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
